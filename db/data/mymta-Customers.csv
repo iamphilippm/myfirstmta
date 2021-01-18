@@ -1,0 +1,18 @@
+id;cusname;address_street;address_city;address_zip
+0;No Customer Activity;;;
+1;Airbus;;Hamburg;
+2;Beiersdorf;;Hamburg;
+3;BonPrix;;Hamburg;
+4;Continental;;Hannover;
+5;EDEKA;;Hamburg;
+6;Hamburger Sparkasse;;Hamburg;
+7;Jungheinrich;;Norderstedt;
+8;Lufthansa Technik;;Hamburg;
+9;MBVD;;Berlin;
+10;NDR;;Hamburg;
+11;OTTO;;Hamburg;
+12;P&C;;Hamburg;
+13;SAP;;Walldorf;
+14;Studio Hamburg;;Hamburg;
+15;Tchibo;;Hamburg;
+16;VW;;Wolfsburg;
