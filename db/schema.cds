@@ -2,8 +2,7 @@ namespace mymta;
 
 type Address {
     street : String(100);
-    city   : String(100);
-    zip    : String(10);
+    city   : String(100)
 }
 
 entity Customers {
